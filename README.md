@@ -41,6 +41,9 @@ List | qust messages |
 !map
 !battle
 !event
+!city
+!camp
+!walk
 ```
 
 
